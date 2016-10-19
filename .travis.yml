@@ -1,6 +1,4 @@
-nguage: java
-
-
+language: java
 sudo: required
 
 before_cache:
